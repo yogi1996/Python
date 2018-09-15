@@ -3,6 +3,7 @@
 #Lab A1
 #gangwani@usc.edu
 ##MAKING SOME CHAGES TO TEST 
+## ADDING UPDATED VERSION
 # taking in input
 
 animal = input("Enter an animal (Plural):")
