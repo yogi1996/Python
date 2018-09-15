@@ -2,7 +2,7 @@
 #ITP, Spring 2018
 #Lab A1
 #gangwani@usc.edu
-
+##MAKING SOME CHAGES TO TEST 
 # taking in input
 
 animal = input("Enter an animal (Plural):")
